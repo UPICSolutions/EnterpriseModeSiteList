@@ -100,4 +100,8 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+    <site url="vo.uwbckr.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
 </site-list>
