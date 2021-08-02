@@ -1,8 +1,8 @@
-<site-list version="11">
+<site-list version="12">
   <created-by>
     <tool>EMIESiteListManager</tool>
-    <version>13.0.0.0</version>
-    <date-created>08/27/2020 19:35:41</date-created>
+    <version>12.0.0.0</version>
+    <date-created>08/02/2021 15:17:16</date-created>
   </created-by>
   <site url="vo.yourunitedway.org">
     <compat-mode>Default</compat-mode>
@@ -100,16 +100,15 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-    <site url="vo.uwbckr.org">
+  <site url="vo.uwbckr.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-     <site url="vo.unitedwaysatx.org">
+  <site url="vo.unitedwaysatx.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  </site>
-     <site url="vo.unitedwayplains.org">
+  <site url="vo.unitedwayplains.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
