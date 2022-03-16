@@ -1,8 +1,8 @@
-<site-list version="13">
+<site-list version="14">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
-    <date-created>02/03/2022 17:50:10</date-created>
+    <date-created>03/16/2022 19:10:37</date-created>
   </created-by>
   <site url="vo.yourunitedway.org">
     <compat-mode>Default</compat-mode>
@@ -113,6 +113,10 @@
     <open-in>IE11</open-in>
   </site>
   <site url="votest.upicsolutions.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="vo.admin.upicsolutions.net">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
