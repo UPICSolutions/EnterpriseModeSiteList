@@ -1,4 +1,4 @@
-<site-list version="17">
+<site-list version="18">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
@@ -16,11 +16,11 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="vo.admin.upicsolutions.org/RDWeb/WebClient">
+  <site url="vo.admin.upicsolutions.net/RDWeb/WebClient">
     <compat-mode>Default</compat-mode>
     <open-in>MSEdge</open-in>
   </site>
-  <site url="vo.admin.upicsolutions.org">
+  <site url="vo.admin.upicsolutions.net">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
