@@ -1,26 +1,38 @@
-<site-list version="15">
+<site-list version="16">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
     <date-created>03/16/2022 19:10:37</date-created>
   </created-by>
-  <site url="vo.yourunitedway.org">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
   <site url="awseast.upicsolutions.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="vo.uwcm.org">
+  <site url="crmliteworkbench.upicsolutions.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="vo.uwdc.org">
+  <site url="vo.admin.upicsolutions.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="vo.uwchatt.org">
+  <site url="vo.dev.upicsolutions.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="vo.graniteuw.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="vo.liveunitedchicago.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="vo.metrounitedway.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="vo.stl.unitedway.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
@@ -28,7 +40,27 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="vo.unitedwaygmwc.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="vo.unitedwaygp.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="vo.unitedwaypbc.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
   <site url="vo.unitedway-pdx.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="vo.unitedwayplains.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="vo.unitedwaysatx.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
@@ -40,27 +72,15 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="vo.uwforsyth.org">
+  <site url="vo.uwchatt.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="vo.graniteuw.org">
+  <site url="vo.uwcm.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="vo.stl.unitedway.org">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="vo.uwgkc.org">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="vo.unitedwaygp.org">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="vo.metrounitedway.org">
+  <site url="vo.uwdc.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
@@ -68,15 +88,11 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="vo.liveunitedchicago.org">
+  <site url="vo.uwforsyth.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="vo.unitedwaypbc.org">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="vo.uwsuncoast.org">
+  <site url="vo.uwgkc.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
@@ -84,11 +100,15 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="vo.dev.upicsolutions.org">
+  <site url="vo.uwscmi.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="voeast2.upicsolutions.org">
+  <site url="vo.uwsuncoast.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="vo.yourunitedway.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
@@ -96,31 +116,11 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="voeast2.upicsolutions.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
   <site url="vowest.upicsolutions.org">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="vo.uwbckr.org">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="vo.unitedwaysatx.org">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="vo.unitedwayplains.org">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="votest.upicsolutions.org">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="vo.admin.upicsolutions.net">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="vo.uwscmi.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
