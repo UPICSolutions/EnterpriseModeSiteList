@@ -8,117 +8,233 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="crmliteworkbench.upicsolutions.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
   <site url="crmliteworkbench.upicsolutions.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
+  </site>
+  <site url="vo.admin.upicsolutions.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
   <site url="vo.admin.upicsolutions.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="vo.dev.upicsolutions.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
   <site url="vo.dev.upicsolutions.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
+  </site>
+  <site url="vo.graniteuw.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
   <site url="vo.graniteuw.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="vo.liveunitedchicago.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
   <site url="vo.liveunitedchicago.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
+  </site>
+  <site url="vo.metrounitedway.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
   <site url="vo.metrounitedway.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="vo.stl.unitedway.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
   <site url="vo.stl.unitedway.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
+  </site>
+  <site url="vo.unitedforimpact.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
   <site url="vo.unitedforimpact.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="vo.unitedwaygmwc.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
   <site url="vo.unitedwaygmwc.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
+  </site>
+  <site url="vo.unitedwaygp.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
   <site url="vo.unitedwaygp.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="vo.unitedwaypbc.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
   <site url="vo.unitedwaypbc.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
+  </site>
+  <site url="vo.unitedway-pdx.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
   <site url="vo.unitedway-pdx.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="vo.unitedwayplains.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
   <site url="vo.unitedwayplains.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
+  </site>
+  <site url="vo.unitedwaysatx.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
   <site url="vo.unitedwaysatx.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="vo.unitedwaytoledo.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
   <site url="vo.unitedwaytoledo.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
+  </site>
+  <site url="vo.uwcentralohio.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
   <site url="vo.uwcentralohio.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="vo.uwchatt.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
   <site url="vo.uwchatt.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
+  </site>
+  <site url="vo.uwcm.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
   <site url="vo.uwcm.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="vo.uwdc.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
   <site url="vo.uwdc.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
+  </site>
+  <site url="vo.uweci.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
   <site url="vo.uweci.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="vo.uwforsyth.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
   <site url="vo.uwforsyth.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
+  </site>
+  <site url="vo.uwgkc.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
   <site url="vo.uwgkc.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="vo.uwnca.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
   <site url="vo.uwnca.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
+  </site>
+  <site url="vo.uwscmi.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
   <site url="vo.uwscmi.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="vo.uwsuncoast.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
   <site url="vo.uwsuncoast.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
+  </site>
+  <site url="vo.yourunitedway.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
   <site url="vo.yourunitedway.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="voeast.upicsolutions.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
   <site url="voeast.upicsolutions.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="voeast2.upicsolutions.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
   <site url="voeast2.upicsolutions.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
+  </site>
+  <site url="vowest.upicsolutions.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
   </site>
   <site url="vowest.upicsolutions.org">
     <compat-mode>Default</compat-mode>
