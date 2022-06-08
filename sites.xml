@@ -1,4 +1,4 @@
-<site-list version="18">
+<site-list version="19">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
@@ -237,6 +237,10 @@
     <open-in>MSEdge</open-in>
   </site>
   <site url="vowest.upicsolutions.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+    <site url="express53.com">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
