@@ -1,4 +1,4 @@
-<site-list version="21">
+<site-list version="22">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
@@ -240,17 +240,15 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-    <site url="express.53.com">
+  <site url="express.53.com">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-    </site>
-    <site url="dpm.53.com">
+  <site url="dpm.53.com">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-    </site>
-    <site url="direct.53.com">
+  <site url="direct.53.com">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
