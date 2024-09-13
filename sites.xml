@@ -16,6 +16,14 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+    <site url="vo.ymu.uwcm.org/RDWeb/WebClient">
+    <compat-mode>Default</compat-mode>
+    <open-in>MSEdge</open-in>
+  </site>
+  <site url="vo.ymu.uwcm.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
   <site url="vo.admin.upicsolutions.net/RDWeb/WebClient">
     <compat-mode>Default</compat-mode>
     <open-in>MSEdge</open-in>
