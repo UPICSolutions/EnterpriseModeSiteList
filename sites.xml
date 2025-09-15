@@ -1,4 +1,4 @@
-<site-list version="27">
+<site-list version="28">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
@@ -37,14 +37,6 @@
     <open-in>MSEdge</open-in>
   </site>
   <site url="vo.dev.upicsolutions.org">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="vo.graniteuw.org/RDWeb/WebClient">
-    <compat-mode>Default</compat-mode>
-    <open-in>MSEdge</open-in>
-  </site>
-  <site url="vo.graniteuw.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
