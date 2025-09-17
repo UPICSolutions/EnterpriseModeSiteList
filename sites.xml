@@ -1,4 +1,4 @@
-<site-list version="29">
+<site-list version="30">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
@@ -120,14 +120,6 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="vo.uwchatt.org/RDWeb/WebClient">
-    <compat-mode>Default</compat-mode>
-    <open-in>MSEdge</open-in>
-  </site>
-  <site url="vo.uwchatt.org">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
   <site url="vo.uwcm.org/RDWeb/WebClient">
     <compat-mode>Default</compat-mode>
     <open-in>MSEdge</open-in>
@@ -141,14 +133,6 @@
     <open-in>MSEdge</open-in>
   </site>
   <site url="vo.uwdc.org">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="vo.uweci.org/RDWeb/WebClient">
-    <compat-mode>Default</compat-mode>
-    <open-in>MSEdge</open-in>
-  </site>
-  <site url="vo.uweci.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
