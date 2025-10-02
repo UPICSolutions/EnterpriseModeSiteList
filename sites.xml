@@ -72,14 +72,6 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="vo.unitedwayplains.org/RDWeb/WebClient">
-    <compat-mode>Default</compat-mode>
-    <open-in>MSEdge</open-in>
-  </site>
-  <site url="vo.unitedwayplains.org">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
   <site url="vo.uwgkc.org/RDWeb/WebClient">
     <compat-mode>Default</compat-mode>
     <open-in>MSEdge</open-in>
